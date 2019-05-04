@@ -6,5 +6,5 @@ join in on the conversation, join the mailing list on [murmur](https://murmur.cs
 or jump into chat on Gitter.
 
 [![Gitter](https://badges.gitter.im/good-labs/community.svg)](https://gitter.im/good-labs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![https://good-labs.github.io/greater-good-pledge/assets/images/badge.svg](https://good-labs.github.io/greater-good-pledge/assets/images/badge.svg)](https://good-labs.github.io/greater-good-pledge)
+[![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
 
